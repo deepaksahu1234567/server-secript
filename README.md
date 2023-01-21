@@ -35,7 +35,9 @@ sudo apt install git
 #output
 
 ![first region  Oregon us_east_1](https://user-images.githubusercontent.com/115246044/213848710-a9927ab1-b536-4910-9f41-b7fa07e14a5e.png)
-![second region mumbai_1](https://user-images.githubusercontent.com/115246044/213848868-b7de2ae8-bec3-4dff-9774-40be74cc917d.png)
+
+![second region mumbai_1](https://user-images.githubusercontent.com/115246044/213860188-6c9cf500-1cd6-4ba4-9b53-bd37aa2fd97e.png)
+
 
 #####VNET
  8.  let's check instance select any public or private  main region your N.virgina 
