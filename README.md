@@ -35,11 +35,40 @@ sudo apt install git
 #output
 
 ![first region  Oregon us_east_1](https://user-images.githubusercontent.com/115246044/213848710-a9927ab1-b536-4910-9f41-b7fa07e14a5e.png)
-![second region mumbai](https://user-images.githubusercontent.com/115246044/213848737-419e8f54-109b-4df1-91ce-56e7c969f0ca.png)
+![second region mumbai_1](https://user-images.githubusercontent.com/115246044/213848868-b7de2ae8-bec3-4dff-9774-40be74cc917d.png)
 
 #####VNET
  8.  let's check instance select any public or private  main region your N.virgina 
  9.  private_instances
  10.  network bar vpc VPC ID= vpc-090e3517b62e89225(myVPC).
  11.  subnet_id =subnet-0417ae20bc55da54d (dev-private-net-1)
- 
+ ##output
+![public instance Vnet](https://user-images.githubusercontent.com/115246044/213849174-7dea0f4e-f69f-4b8a-bf6b-de21fe48792b.png)
+![public instance Vnet](https://user-images.githubusercontent.com/115246044/213849182-aaddaa35-90af-4b6b-b97f-9fa1db7a59a7.png)
+
+
+###virtual network 
+private NAT output
+
+![privte nat](https://user-images.githubusercontent.com/115246044/213859430-f66fa9e7-3984-49e6-8f5e-955ac1fb4925.png)
+##VPC output
+![VPC](https://user-images.githubusercontent.com/115246044/213859492-ac5032c5-5dce-4797-9e3b-5d2b7c39c1d2.png)
+## routes output
+
+![routes](https://user-images.githubusercontent.com/115246044/213859657-d508bb15-cacb-4cc4-96a1-62d8d745c89c.png)
+#routes for private output
+
+![routes for private](https://user-images.githubusercontent.com/115246044/213859804-0f2632b7-f0ca-42ae-8816-03a62fb19280.png)
+
+#internet getway
+![IG](https://user-images.githubusercontent.com/115246044/213859900-47f59153-d489-4a5f-a63f-f12d94a0b6de.png)
+
+#NEtwork Accls output
+
+![Network ACCLs](https://user-images.githubusercontent.com/115246044/213859957-da7182c6-ec78-42d0-9be8-47ff8773f137.png)
+
+##NAT output
+![NAT ](https://user-images.githubusercontent.com/115246044/213859998-dacaf69b-10ee-4494-bf4a-8fa4e9e4bfe5.png)
+
+
+
