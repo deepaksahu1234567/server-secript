@@ -37,9 +37,6 @@ sudo apt install git
 #####VNET
  8.  let's check instance select any public or private  main region your N.virgina 
  9.  private_instances
- 10.  network bar vpc VPC ID vpc-090e3517b62e89225(myVPC).
+ 10.  network bar vpc VPC ID= vpc-090e3517b62e89225(myVPC).
  11.  subnet_id =subnet-0417ae20bc55da54d (dev-private-net-1)
- 12.  
- 13.  
- 14.  
  
