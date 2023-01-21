@@ -32,7 +32,10 @@ sudo apt install git
  4.  check the  two different region instances mumbai ,oregon  check it instances 
  5.  instances click 
  6.  done 
+#output
 
+![first region  Oregon us_east_1](https://user-images.githubusercontent.com/115246044/213848710-a9927ab1-b536-4910-9f41-b7fa07e14a5e.png)
+![second region mumbai](https://user-images.githubusercontent.com/115246044/213848737-419e8f54-109b-4df1-91ce-56e7c969f0ca.png)
 
 #####VNET
  8.  let's check instance select any public or private  main region your N.virgina 
