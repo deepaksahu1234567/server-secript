@@ -5,6 +5,9 @@ sudo apt install git
  git init 
  git clone https://github.com/deepaksahu1234567/server-secript.git
  
+ ##create user in AWS (IAM)
+ your crdential put in code ec2 file 
+ and run the script 
  
  ## install terraform 
  https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
